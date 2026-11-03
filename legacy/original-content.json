@@ -1,0 +1,166 @@
+{
+  "pages": [
+    {
+      "slug": "home",
+      "title": "Sybertron | Digital Products, AI, and Web Engineering",
+      "meta_title": "Sybertron | Digital Products, AI, and Web Engineering",
+      "meta_description": "Sybertron designs and builds custom websites, SaaS platforms, AI workflows, mobile apps, and digital growth systems for ambitious businesses.",
+      "keywords": "web design, ai automation, custom software, ecommerce, mobile apps",
+      "og_image": "/logo-horizontal.svg",
+      "canonical_url": "/",
+      "updated_at": "2026-11-02T10:49:31.328Z"
+    },
+    {
+      "slug": "about",
+      "title": "About Sybertron",
+      "meta_title": "About Sybertron",
+      "meta_description": "Learn about Sybertron's mission, timeline, product and service philosophy, and the team behind the work.",
+      "keywords": "about sybertron, digital agency, custom software company",
+      "og_image": "/logo-horizontal.svg",
+      "canonical_url": "/about",
+      "updated_at": "2026-11-02T10:47:53.314Z"
+    },
+    {
+      "slug": "services",
+      "title": "Services",
+      "meta_title": "Services",
+      "meta_description": "Explore Sybertron's design, development, AI, ecommerce, mobile app, and growth services.",
+      "keywords": "website development, ai automation, app development, digital marketing",
+      "og_image": "/logo-horizontal.svg",
+      "canonical_url": "/services",
+      "updated_at": "2026-11-02T10:47:53.314Z"
+    },
+    {
+      "slug": "work",
+      "title": "Work",
+      "meta_title": "Work",
+      "meta_description": "See the products, portals, and digital systems built by the Sybertron team.",
+      "keywords": "portfolio, digital projects, product design, software work",
+      "og_image": "/logo-horizontal.svg",
+      "canonical_url": "/work",
+      "updated_at": "2026-11-02T10:47:53.314Z"
+    },
+    {
+      "slug": "products",
+      "title": "Products",
+      "meta_title": "Products",
+      "meta_description": "Browse the in-house software products and digital platforms built for growth-conscious businesses.",
+      "keywords": "saas products, softwares, ecommerce, business platforms",
+      "og_image": "/logo-horizontal.svg",
+      "canonical_url": "/products",
+      "updated_at": "2026-11-02T10:47:53.314Z"
+    },
+    {
+      "slug": "careers",
+      "title": "Careers",
+      "meta_title": "Careers",
+      "meta_description": "Join the Sybertron team and build digital products that help businesses scale.",
+      "keywords": "careers, jobs, growth, software engineering",
+      "og_image": "/logo-horizontal.svg",
+      "canonical_url": "/careers",
+      "updated_at": "2026-11-02T10:47:53.314Z"
+    },
+    {
+      "slug": "start",
+      "title": "Start a project",
+      "meta_title": "Start a project",
+      "meta_description": "Tell Sybertron what you're building and start your next website, product, or automation initiative.",
+      "keywords": "start project, custom website, digital transformation",
+      "og_image": "/logo-horizontal.svg",
+      "canonical_url": "/start",
+      "updated_at": "2026-11-02T10:47:53.314Z"
+    },
+    {
+      "slug": "urgent",
+      "title": "Urgent fix",
+      "meta_title": "Urgent fix",
+      "meta_description": "Get a fast, focused response for a business website, app, or system issue that needs recovery immediately.",
+      "keywords": "urgent website fix, emergency code support, rapid restoration",
+      "og_image": "/logo-horizontal.svg",
+      "canonical_url": "/urgent",
+      "updated_at": "2026-11-02T10:47:53.314Z"
+    },
+    {
+      "slug": "blog",
+      "title": "Insights & Updates",
+      "meta_title": "Insights & Updates",
+      "meta_description": "Read insights on AI, digital growth, product strategy, design, and technical execution.",
+      "keywords": "blog, insights, digital strategy, ai news",
+      "og_image": "/logo-horizontal.svg",
+      "canonical_url": "/blog",
+      "updated_at": "2026-11-02T10:53:20.426Z"
+    },
+    {
+      "slug": "legal",
+      "title": "Legal / Privacy",
+      "meta_title": "Legal / Privacy",
+      "meta_description": "Read the privacy policy, cookies policy, and legal terms for working with Sybertron.",
+      "keywords": "privacy, terms, legal, cookies",
+      "og_image": "/logo-horizontal.svg",
+      "canonical_url": "/privacy",
+      "updated_at": "2026-11-02T10:47:53.314Z"
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "page_slug": "home",
+      "section_key": "hero",
+      "heading": "What do you want to build?",
+      "body": "Websites, apps, AI and cloud engineering built to scale \u2014 from one team.",
+      "image": "/logo-horizontal.svg",
+      "bold": 1,
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "page_slug": "home",
+      "section_key": "services",
+      "heading": "Serious skills. Zero stiff vibes.",
+      "body": "Design, development and marketing from one team, so you don't have to manage three agencies.",
+      "image": "/logo-horizontal.svg",
+      "bold": 0,
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "page_slug": "home",
+      "section_key": "work",
+      "heading": "Work that turns into momentum.",
+      "body": "From SaaS platforms to customer portals and marketing systems, we build for business outcomes.",
+      "image": "/logo-horizontal.svg",
+      "bold": 1,
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "page_slug": "about",
+      "section_key": "story",
+      "heading": "Built to solve real business problems.",
+      "body": "We make custom digital systems, products and experiences that are measurable and maintainable.",
+      "image": "/logo-horizontal.svg",
+      "bold": 1,
+      "sort_order": 1
+    },
+    {
+      "id": 5,
+      "page_slug": "services",
+      "section_key": "header",
+      "heading": "What we do.",
+      "body": "AI systems, websites, ecommerce, enterprise software and growth systems.",
+      "image": "/logo-horizontal.svg",
+      "bold": 1,
+      "sort_order": 1
+    },
+    {
+      "id": 31,
+      "page_slug": "blog",
+      "section_key": "section_1793616931987",
+      "heading": "New section",
+      "body": "Edit this content from the backend admin.",
+      "image": "/logo-horizontal.svg",
+      "bold": 1,
+      "sort_order": 99
+    }
+  ]
+}

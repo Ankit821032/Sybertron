@@ -1,0 +1,11 @@
+{
+  "description": "Sybertron builds websites, applications, AI workflows and digital products.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "Sybertron | Digital Products, AI & Web Engineering"
+}
